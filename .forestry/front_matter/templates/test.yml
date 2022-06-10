@@ -1,9 +1,6 @@
 ---
 label: Test
 hide_body: true
-fields:
-- type: text
-  name: title
-  label: title
+fields: []
 pages:
 - content/posts/abc.md
